@@ -35,7 +35,6 @@ export default function SelectComponent({ options, dispatchFn }: SelectProps) {
 	return (
 		<Select
 			options={options}
-			// menuIsOpen
 			className="select"
 			classNamePrefix="select"
 			onChange={(e: any) => onChange(e)}
