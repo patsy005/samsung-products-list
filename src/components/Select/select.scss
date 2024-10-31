@@ -1,0 +1,38 @@
+@use '../../colors';
+
+.select {
+	&__indicator-separator {
+		display: none;
+	}
+
+	&__control {
+		border: unset !important;
+		border-radius: 2px;
+
+		&--is-focused,
+		&--menu-is-open {
+			border-color: unset !important;
+            box-shadow: unset !important;
+		}
+
+		&--menu-is-open {
+			.select__dropdown-indicator {
+				svg {
+					transform: rotate(180deg);
+				}
+			}
+		}
+	}
+
+	&__option {
+		&:hover,
+		&--is-focused {
+			background-color: colors.$grey-97 !important;
+			color: colors.$black;
+		}
+
+		&--is-selected {
+			background-color: colors.$grey-46 !important;
+		}
+	}
+}

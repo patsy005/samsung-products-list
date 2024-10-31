@@ -1,0 +1,25 @@
+@use './colors';
+@forward './shared.scss';
+@forward './components/Search/search.scss';
+@forward './components/Select/select.scss';
+@forward './components/Spinner/spinner.scss';
+@forward './Pages/ProductsPage/productPage.scss';
+@import url('https://fonts.cdnfonts.com/css/samsungone');
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'SamsumgOne', sans-serif;
+	background-color: colors.$grey-97;
+	color: colors.$black;
+}

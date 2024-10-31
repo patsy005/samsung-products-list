@@ -1,0 +1,496 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 2,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 3,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 4,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 5,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 6,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 7,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 8,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 9,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 10,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 11,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 12,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 13,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 14,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 15,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 16,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 17,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 18,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 19,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 20,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 21,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 22,
+			"name": "WW90T754ABT",
+			"type": "Pralka",
+			"model": "QuickDrive™",
+			"capacity": "9",
+			"color": "Biała",
+			"front": "black",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "A",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungBlack.png"
+		},
+		{
+			"id": 23,
+			"name": "WW10T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "10,5",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "B",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		},
+		{
+			"id": 24,
+			"name": "WW90T654DLH",
+			"type": "Pralka",
+			"model": "EcoBubble™",
+			"capacity": "8",
+			"color": "Biała",
+			"front": "white",
+			"dimensions": "55 x 60 x 85 cm",
+			"functions": ["Drzwi AddWash™", "Panel AI Control", "Silnik inwerterowy", "Wyświetlacz elektroniczny"],
+			"class": "C",
+			"prices": [
+				{
+					"price": 3199,
+					"validFrom": "01-10-2024",
+					"validTo": "31-12-2024"
+				}
+			],
+			"image": "samsungWhite.png"
+		}
+	],
+	"installments": [
+		{
+			"numberOfMonths": 12,
+			"percentage": 0,
+			"itemsIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		},
+		{
+			"numberOfMonths": 60,
+			"percentage": 5,
+			"itemsIds": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+		}
+	]
+}

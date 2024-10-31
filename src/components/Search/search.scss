@@ -1,0 +1,65 @@
+@use '../../colors';
+
+.search {
+	padding: 2.3rem 0 4rem 0;
+
+	.search-button {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		background: colors.$white;
+		border: none;
+		position: relative;
+
+		.search-input {
+			&:hover {
+				border-color: colors.$grey-33;
+			}
+
+			&:active {
+				border-color: colors.$primary;
+			}
+
+			&:focus {
+				border-color: colors.$primary;
+				outline: none;
+			}
+		}
+
+		span {
+			position: absolute;
+			right: 1.2rem;
+			top: 50%;
+			transform: translate(0, -50%);
+			font-weight: 700;
+			cursor: pointer;
+			transition: color 0.3s ease-in-out;
+
+			&:hover {
+				color: colors.$primary;
+			}
+		}
+	}
+
+	.search-input {
+		padding: 0.8rem 1.2rem;
+		border-radius: 2px;
+		border: 1px solid transparent;
+		background-color: colors.$white;
+		transition: border-color 0.3s ease-in-out;
+		width: 100%;
+
+		&:focus-visible {
+			caret-color: colors.$primary;
+		}
+	}
+}
+
+
+@media screen and (min-width: 992px){
+	.search {
+		.search-button {
+			width: 25%;
+		}
+	}	
+}
